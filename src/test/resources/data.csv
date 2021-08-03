@@ -1,5 +1,4 @@
-100000000,true,500
-500000,true,150
-1000000,true,300
-560785,false,56
-
+UserReg,100000000,true,500
+UserReg,500000,true,150
+UserReg,1000000,true,300
+UserNotReg,560785,false,56
